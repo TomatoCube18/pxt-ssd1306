@@ -1,6 +1,6 @@
 {
     "name": "SSD1306_OLED",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "description": "TomatoCube Mod Tinkercademy package for SSD1306 OLED controller",
     "license": "MIT",
     "dependencies": {
